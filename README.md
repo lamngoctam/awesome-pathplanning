@@ -1,5 +1,4 @@
 # Awesome Path Planning Techniques
-================
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -8,7 +7,7 @@ This is a list of path planning methods. Hope that is can help someone else cond
 ### Discrete Search ###
 * [Dijkstra, 1959](https://link.springer.com/article/10.1007%2FBF01386390) 
 * [LaValle, 2006](http://dx.doi.org/10.1017/CBO9780511546877)
-* [Cormen et al., 2009](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) ** Book **
+* [Cormen et al., 2009](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) **Book**
 
 ### Advanced Planning Techniques ###
 
