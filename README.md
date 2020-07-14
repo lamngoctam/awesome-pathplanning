@@ -23,6 +23,19 @@ This is a list of path planning methods. Hope that is can help someone else in c
 
 ### Geometric Algorithms and Environment Representations ###
 #### Visibility Graphs ####
+* [Nilsson, 1969]()
+* [Lozano-Pérez and Wesley, 1979]()
+* [de Berg et al., 2008]()
+
+#### Extensions of Visibility Graphs ####
+* [Chew, 1985]()
+* [Liu and Arimoto, 1995]()
+* [Wein et al., 2007]()
+
+#### Continuous Dijkstra ####
+* [Mitchell, 1991, 1993]()
+* [Hershberger and Suri, 1997]()
+* [Camporesi and Kallmann, 2014]()
 ##### Euclidean Shortest Paths #####
 
 ##### Navigation Meshes anGeometric Structures with Clearance #####
